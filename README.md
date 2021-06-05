@@ -11,6 +11,21 @@
 
 - ⚡ Fun fact: I have a chow-chow 🐶 whose name is Mandoo which means dumpling 🥟 in Korean!
 
+
+
+<h3 align="center">Github Stats</h3>
+
+---
+  
+![Les Stats GitHub de Paul-E Legrand](https://github-readme-stats.vercel.app/api?username=pelegrand&show_icons=true&theme=tokyonight)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrand&layout=compact&theme=tokyonight)](https://github.com/pelegrand/github-readme-stats)
+ 
+ <h3 align="center">CodeWars Stats</h3>
+
+---
+
+![Les Stats GitHub de Paul-E Legrand](https://www.codewars.com/users/pelegrand/badges/large)
 <!--
 **pelegrand/pelegrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
