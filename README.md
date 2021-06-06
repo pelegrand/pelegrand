@@ -34,7 +34,7 @@
 
 ---
 
-![Les Stats GitHub de Paul-E Legrand](https://www.codewars.com/users/pelegrand/badges/large)
+<a href=https://www.codewars.com/users/pelegrand>![Les Stats GitHub de Paul-E Legrand](https://www.codewars.com/users/pelegrand/badges/large)</a>
 <!--
 **pelegrand/pelegrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
