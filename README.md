@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Paul-E Legrand!</h1>
 <h3 align="center">A passionate Belgian 🇧🇪 software developer living in Paris / France 🇫🇷 🇪🇺</h3
   
-- 🔎 I am currently looking for a 6-month fullstack internship starting in September. Do not hesitate to ask for a technical test or an interview, I am ready for it 💯 💯 💯  paulm.legrand@gmail.com
+- 🔎 I am currently looking for a 6-month fullstack internship starting in September. Do not hesitate to ask for a technical test or an interview, I am ready for it 💯 💯 💯 
+  
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pelegrand/)
+  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulm.legrand@gmail.com)
   
 - 📖 I am learning React.js and Node.js at <a href=https://www.wildcodeschool.com>WildCodeSchool</a>
 
@@ -21,7 +24,7 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pelegrand&layout=compact&theme=tokyonight)](https://github.com/pelegrand/github-readme-stats)
  
- <h3 align="center">CodeWars Stats</h3>
+ <h3 align="center">Codewars Stats</h3>
 
 ---
 
