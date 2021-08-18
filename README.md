@@ -4,7 +4,7 @@
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pelegrand/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulm.legrand@gmail.com)
   
-- 📖 I am learning React.js and Node.js at <a href=https://www.wildcodeschool.com>WildCodeSchool</a>
+- 📖 I have learned React.js and Node.js at <a href=https://www.wildcodeschool.com>WildCodeSchool</a>
 
 - 👷‍♂️ I am currently working on a simplified dashboard intended for the sales representatives of a large agrifood company.
 
