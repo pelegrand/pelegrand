@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Paul-E Legrand!</h1>
-<h3 align="center">A passionate Belgian 🇧🇪 software developer living in Paris / France 🇫🇷 🇪🇺</h3
+<h3 align="center">A passionate Belgian 🇧🇪 web developer living in Paris / France 🇫🇷 🇪🇺</h3
 
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pelegrand/)
   [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:paulm.legrand@gmail.com)
